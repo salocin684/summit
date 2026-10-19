@@ -1,0 +1,1 @@
+case class GameState(altitude: Int, energy: Int, day: Int)
